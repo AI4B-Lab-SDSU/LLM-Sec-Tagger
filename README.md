@@ -1,4 +1,4 @@
-# LLM Tagger SDSU - Document Classification Comparison
+# LLM-Driven Document Clustering: Improving Real-Time Security Intelligence Extraction and Threat Analysis
 
 This project compares two different approaches for multi-label document classification and topic modeling across multiple academic paper datasets. Developed as part of research at San Diego State University (SDSU), it evaluates:
 
@@ -22,7 +22,7 @@ LLMTaggerSDSU-main/
 │   ├── APT/                # PDF documents for DS3
 │   └── comparison_results/ # DS3 comparison outputs
 ├── logs/                   # Application logs
-├── nltk/                   # NLTK data (stopwords, etc.)
+├── nltk/                   # NLTK data (stopwords)
 ├── old/                    # Archived/old versions
 ├── Results/                # General results directory
 ├── test_pdf/               # Test PDF files
