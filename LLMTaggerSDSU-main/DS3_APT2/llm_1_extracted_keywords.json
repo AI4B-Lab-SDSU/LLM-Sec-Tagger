@@ -1,0 +1,56 @@
+{
+  "APT29 attacks Embassies using CVE-2023-38831 - report en.pdf": {
+    "response": "APT29  \nRussia's Foreign Intelligence Service (SVR)  \nWinRAR vulnerability CVE-2023-38831  \nEmbassy infiltration  \nBMW car sale lure  \nPhishing emails  \nNgrok tunneling  \nGeopolitical implications  \nAzerbaijan, Greece, Romania, Italy  \nNagorno-Karabakh  \nCyber-espionage  \nSednit APT (APT28)  \nRussian military intelligence (GRU)  \nCybersecurity awareness  \nPowerShell payloads  \nZIP archive exploitation  \nInternational organizations targeted  \nDiplomatic missions  \nCyber threat landscape  \nState-sponsored actors  \nSecurity patches and updates"
+  },
+  "Chinese APT Targeting Cambodian Government.pdf": {
+    "response": "Chinese APT  \nCambodian Government  \nUnit 42  \nCloud backup services  \nBelt and Road Initiative  \nReam Naval Base  \nCyberespionage  \nCommand and Control Infrastructure  \nCowrie honeypot  \nGolden Week  \nNext-Generation Firewall  \nCortex XSOAR  \nPrisma Cloud  \nAdvanced URL Filtering  \nDNS Security  \nIndicators of Compromise  \nCyber Threat Alliance  \nSensitive data  \nGeopolitical goals"
+  },
+  "Dark Pink APT unleashes malware for deeper and more sinister intrusions in the Asia-Pacific and Europe _ Group-IB Blog.pdf": {
+    "response": "Dark Pink APT  \nAsia-Pacific region  \nAdvanced persistent threat (APT)  \nEspionage  \nTelePowerBot  \nKamiKakaBot  \nCucky and Ctealer  \nDLL Side-Loading  \nEvent Triggered Execution  \nSpear-phishing emails  \nCustom toolkit  \nGovernment and military organizations  \nData exfiltration  \nTelegram API  \nLateral movement  \nPowerShell scripts  \nCybersecurity  \nThreat Intelligence  \nGroup-IB"
+  },
+  "Flax Typhoon using legitimate software to quietly access Taiwanese organizations _ Microsoft Security Blog.pdf": {
+    "response": "Flax Typhoon  \nnation-state activity group  \nChina  \nTaiwan  \nespionage  \nliving-off-the-land binaries (LOLBins)  \nChina Chopper web shell  \nMetasploit  \nJuicy Potato  \nMimikatz  \nSoftEther VPN  \nremote desktop protocol (RDP)  \nSticky Keys  \ncredential access  \nvulnerability exploitation  \ncommand and control  \nMicrosoft 365 Defender  \nnetwork infrastructure  \nTLS certificates  \nMicrosoft Threat Intelligence"
+  },
+  "From Albania to the Middle East_ The Scarred Manticore is Listening - Check Point Research.pdf": {
+    "response": "Scarred Manticore  \nIranian espionage campaign  \nMinistry of Intelligence and Security (MOIS)  \nLIONTAIL malware framework  \nWindows HTTP stack driver HTTP.sys  \nMiddle East high-profile targets  \nGovernment and telecommunications sectors  \nCustom web shells and DLL backdoors  \nDEV-0861 destructive attack  \nOilRig (APT34, EUROPIUM, Hazel Sandstorm)  \nMemory resident shellcode payloads  \nHTTP API and IOCTLs  \nNamed pipes communication  \nLIONHEAD web forwarder  \nFOXSHELL web shell  \nWINTAPIX driver  \nSaudi Arabia, United Arab Emirates, Jordan, Kuwait, Oman, Iraq, Israel  \nData exfiltration and espionage  \nCheck Point Research and Sygnia collaboration"
+  },
+  "Intellexa and Cytrox_ From fixer-upper to Intel Agency-grade spyware.pdf": {
+    "response": "Intellexa  \nCytrox  \nPredator spyware  \nAmnesty International  \nCisco Talos  \nPersistence  \nMalicious domains  \nExploit chain  \nAlien/Predator  \nIntellexa Alliance  \nPlausible deniability  \nCost Insurance and Freight (CIF)  \nVulnerability exploits  \nEntity List  \nPublic exposure  \nSpyware vendor  \nAnonymization  \nTechnical analyses  \nMobile spyware"
+  },
+  "INTRINSEC - Emotet returns and deploys loaders.pdf": {
+    "response": "Emotet\nGeodo banking Trojan\nU.S. Department of Homeland Security\nloader-as-a-service (LaaS)\nphishing campaigns\nemail thread hijack technique\nmodular Trojan\nTrickBot malware\nCobalt Strike\nConti operators\nBlackCat\nQuantum operators\nEtterSilent maldoc builder\nsocial engineering technique\nMark-of-the-Web (MoTW)\nIcedID\nBumblebee malwares\nXMRig Monero miner\nCyber Threat Intelligence\nspear phishing attachment technique\nEpoch5 botnet\nSilentBuilder dropper\nAshkERE\nExploit and XSS forums\nElliptic Curve Diffie-Hellman (EDCH)\nElliptic-curve digital Signature Algorithm (ECDSA)\ncommand-and-control servers\nFeodo Tracker\nMaltego graphs\npolymorphic\nEmoCheck\nEmoKill\nVirusTotal Intel\nSIGMA detection rules\nYARA detection rule\nIndicators of compromise (IoCs)"
+  },
+  "Israel-Hamas War Spotlight_ Shaking the Rust Off SysJoker - Check Point Research.pdf": {
+    "response": "Israel-Hamas war  \nSysJoker  \nCheck Point Research  \nRust language  \nmulti-platform backdoor  \nHamas-affiliated APT  \nOneDrive  \nOperation Electric Powder  \nGaza Cybergang  \nWindows, Linux, Mac  \ncommand and control server  \npersistence mechanism  \nencryption  \nC2 server  \nmalware variants  \nPowerShell  \nDMADevice variant  \nAppMessagingRegistrar variant  \ncloud storage services  \nElectric Powder Operation"
+  },
+  "Modern Asia APT groups TTPs _ Securelist.pdf": {
+    "response": "Modern Asian APT groups\nTactics, techniques and procedures (TTPs)\nCyber Kill Chain\nMITRE ATT&CK methodology\nCybersecurity professionals\nInfrastructure vulnerability\nThreat actors\nUnified Kill Chain\nSIGMA rules\nCyber Threat Intelligence\nDigital Forensics (DFIR)\nNetwork segmentation\nAsset management\nVulnerability management\nTargeted attacks\nMalware Technologies\nCyber espionage\nSOC analysts\nThreat Hunting experts"
+  },
+  "New ShroudedSnooper actor targets telecommunications firms in the Middle East with novel Implants.pdf": {
+    "response": "ShroudedSnooper  \ntelecommunications firms  \nMiddle East  \nHTTPSnoop  \nPipeSnoop  \nbackdoor  \nWindows HTTP kernel drivers  \nshellcode  \nDLL- and EXE-based implants  \nmasquerade as security software  \nExchange Web Services (EWS)  \nstate-sponsored actors  \nLightBasin (UNC1945)  \nOperation Diànxùn  \nMustangPanada (RedDelta)  \nLebanese Cedar APT  \nMuddyWater APT  \nCortex XDR  \nCyveraConsole.exe  \nOfficeCore’s Location Based Services (LBS)  \nnamed pipe  \nInter-Process Communication (IPC)  \nCisco Secure Endpoint  \nIndicators of Compromise (IOCs)"
+  },
+  "New SugarGh0st RAT targets Uzbekistan government and South Korea.pdf": {
+    "response": "SugarGh0st RAT  \nUzbekistan Ministry of Foreign Affairs  \nSouth Korea  \nGh0st RAT variant  \nRemote access trojan  \nWindows Shortcut  \nMalicious JavaScript  \nDynamixWrapperX  \nChinese-speaking threat actor  \nPhishing email  \nDecoy document  \nKeylogging  \nC2 server  \nReverse shell  \nDynamicWrapperX DLL  \nShellcode  \nObfuscated script  \nCommand and control (C2)  \nInfection chain  \nCisco Talos"
+  },
+  "Operation Triangulation_ The last (hardware) mystery _ Securelist.pdf": {
+    "response": "Operation Triangulation  \niMessage attack  \nZero-day vulnerabilities  \nCVE-2023-41990  \nADJUST TrueType font instruction  \nJavaScriptCore  \nPointer Authentication Code (PAC) bypass  \nCVE-2023-32434  \nCVE-2023-38606  \nMemory-mapped I/O (MMIO)  \nApple SoCs  \nGPU coprocessor  \nCoreSight MMIO debug registers  \nHamming code  \nError correction code (ECC)  \nSecurity through obscurity  \nReverse engineering  \nTargeted attacks  \nApple  \nMalware Technologies"
+  },
+  "Seedworm_ Iranian Hackers Target Telecoms Orgs in North and East Africa _ Symantec Enterprise Blogs.pdf": {
+    "response": "Seedworm  \nIranian hackers  \nTelecommunications sector  \nEgypt, Sudan, Tanzania  \nMuddyC2Go infrastructure  \nPowerShell  \nSimpleHelp remote access tool  \nVenom Proxy  \nCustom keylogging tool  \nImpacket WMIExec  \nRevsocks tool  \nAnyDesk  \nCyberespionage  \nMinistry of Intelligence and Security (MOIS)  \nCommand-and-control (C&C) server  \nLiving-off-the-land tools  \nDeep Instinct  \nSymantec Threat Hunter Team  \nMuddyC2Go PowerShell launcher  \nCustom build of Venom Proxy"
+  },
+  "StripedFly_ Perennially flying under the radar _ Securelist.pdf": {
+    "response": "StripedFly\ncryptocurrency miner\nmodular framework\nEternalBlue exploit\nSMBv1 protocol\nTOR network\nBitbucket repository\nC2 server\ncredential harvester\nThunderCrypt ransomware\nSSH infector\nMonero mining module\nEquation malware\nShadow Brokers\nWindows and Linux\npersistence methods\nreverse proxy\nrecon module\ndata theft\nencryption"
+  },
+  "Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant.pdf": {
+    "response": "Void Rabisu  \nFemale Political Leaders  \nROMCOM Variant  \nCyberespionage  \nUkrainian Government  \nGender Equality Initiatives  \nDetection Evasion Techniques  \nAdvanced Persistent Threat (APT)  \nZero-day Vulnerability CVE-2023-36884  \nWPL Summit 2023  \nMalicious Advertisements  \nTLS-enforcing Technique  \nUser-Agent-Based Downloader  \nXOR-encrypted PE File  \nCOM Hijacking  \nPEAPOD  \nWinHTTP Functions  \nTLS 1.2  \nNamed Pipes  \nCybercriminal Threat Actors"
+  },
+  "Volt Typhoon targets US critical infrastructure with living-off-the-land techniques _ Microsoft Security Blog.pdf": {
+    "response": "Volt Typhoon  \nUS critical infrastructure  \nliving-off-the-land techniques  \nstate-sponsored actor  \nChina  \nespionage  \ninformation gathering  \ncommunications infrastructure  \nGuam  \nnetwork system discovery  \ncredential access  \nstealth  \ncommand line  \nSOHO network equipment  \ncustom open-source tools  \ncommand and control (C2) channel  \nMicrosoft 365 Defender  \nNational Security Agency (NSA)  \nFortinet FortiGuard devices  \nActive Directory  \nLSASS  \nNtdsutil.exe  \nPowerShell  \nWindows Management Instrumentation Command-line (WMIC)  \nmulti-factor authentication (MFA)  \nMicrosoft Defender Antivirus  \nMicrosoft Sentinel  \nIndicators of compromise (IOCs)"
+  },
+  "Welcome to Goot Camp_ Tracking the Evolution of GOOTLOADER Operations _ Mandiant.pdf": {
+    "response": "GOOTLOADER  \nUNC2565  \nFONELAUNCH  \nCobalt Strike BEACON  \nSNOWCONE  \nGOOTLOADER.POWERSHELL  \nObfuscation variants  \nJavaScript downloader  \nPowerShell script  \nRegistry payloads  \nInfection chain  \nMandiant Managed Defense  \nTactics, techniques, and procedures (TTPs)  \nDeobfuscation process  \nScheduled task  \nCommand and control (C2) server  \n.NET-based loader  \nDynamicDllLoader  \nCyberChef  \nYARA rules"
+  },
+  "WildCard_ The APT Behind SysJoker Targets Critical Sectors in Israel.pdf": {
+    "response": "WildCard  \nAPT group  \nSysJoker  \nRustDown  \nOperation ElectricPowder  \nIsrael  \neducational sector  \nmalware variants  \nRust  \nC++  \nOneDrive  \ndead drop resolver  \nphishing campaigns  \nsocial engineering  \nC2 server  \nPowerShell  \nobfuscation  \nnetwork infrastructure  \ncritical sectors  \nIsraeli-Hamas war"
+  }
+}
