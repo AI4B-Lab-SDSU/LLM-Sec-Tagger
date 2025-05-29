@@ -26,7 +26,7 @@ LLMTaggerSDSU-main/
 ├── old/                    # Archived/old versions
 ├── Results/                # General results directory
 ├── test_pdf/               # Test PDF files
-├── script1-llm.py         # LLM: Extract keywords from PDFs
+├── script1-llm.py          # LLM: Extract keywords from PDFs
 ├── script2-llm.py         # LLM: Generate labels from keywords
 ├── script4_LLM_multi-label_metrics.py  # LLM: Evaluate results
 ├── 1-traditional.py       # Traditional: BERTopic clustering
