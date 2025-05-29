@@ -1,6 +1,0 @@
-2025-03-01 00:55:27,938 - INFO - Starting PDF/TXT extraction process (no streaming)
-2025-03-01 00:55:27,946 - INFO - Starting folder processing: DS2_APT\APT2015
-2025-03-01 00:55:27,946 - INFO - Found 0 files (PDF or TXT) to process.
-2025-03-01 00:55:27,946 - INFO - Saving results to: DS2_APT\llm_1_extracted_keywords.json
-2025-03-01 00:55:27,946 - ERROR - Failed to save results: [Errno 2] No such file or directory: 'DS2_APT\\llm_1_extracted_keywords.json'
-2025-03-01 00:55:27,946 - ERROR - Process failed with error: [Errno 2] No such file or directory: 'DS2_APT\\llm_1_extracted_keywords.json'
